@@ -366,7 +366,7 @@ Detect → Autonomous Decision → Execute → Log → Eventual Human Review
 
 - 🛰️ **[TX-1 Orbital Prototype](https://github.com/TAM-DS/Texas-Energy-Data-Pulse)** - Physics and economics of orbital compute
 - 🔒 **[Orbital AI Security 2030]()** - Threat surface shift Earth → Orbit
-- ⚡ **[Physics Over Humans]()** (this project) - Quantified control model analysis
+- ⚡ **[Physics Over Humans](https://github.com/TAM-DS/The-Physics-Constraint-2030)** (this project) - Quantified control model analysis
 - 🔐 **[OWASP LLM Attack Surface](https://github.com/TAM-DS/OWASP-LLM-Attack-Surface-2025-Edition-)** - Terrestrial AI security
 - 🎯 **[RAG Propagation Map](https://github.com/TAM-DS/RAG-Attack-Surface-Propagation-Map-2025-Edition-)** - RAG vulnerability cascades
 
